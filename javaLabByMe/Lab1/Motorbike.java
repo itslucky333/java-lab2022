@@ -11,7 +11,7 @@ public class Motorbike {
     speed = 0;
     }
     public void printSpeed() {// display the current speed of this car
-    System.out.println("Current speed of " + model + " is " + speed + " mpH");
+    System.out.println("Current speed   of " + model + " is " + speed + " mpH");
     }
     public static void main(String[] args) {// create new Honda car
     Motorbike honda = new Motorbike("Honda");// create new Pulsar car
