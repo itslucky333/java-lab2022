@@ -1,0 +1,24 @@
+1.1 HISTORY
+    developed by: Sun Microsystem in 1991. 
+    At first it was called OAK. The first version of java was released in 1995. 
+    During inception java was called "internet version of C++" , but its core motive was to provide platform independent software
+    It was designed to be extremly portable, distributed, secure and multi threaded.
+    
+
+
+
+1.2 COMPARISION BETWEEN JAVA AND C++
+
+        features                            c++                                                     java
+        platform independent                Not as portable as java                                 Platform independent, write once run everywhere
+        backward compatibility              Compatible with C                                      some extend to previous version
+        Fous                                Execution efficiency                                   Developer productivity
+        freedom                             More freedom                                            Not much freedom
+        programming paradigm                Both oop and procedual                                  oop
+        Type Casting                        More restricted                                         Compatible
+        Operator overloading                supported                                               Not -supported
+        pre-processor                       available                                               not -available
+        ClassName                           Class name and file name can be random                  Class Name and file name should be same, Class name starts with capital letter
+        Array                               No array bound checking                                 Array bound checking enforced
+        Inheritance                         Multiple inheritance supported                          No multiple inheritance
+        I/O                                 Cin and Cout                                            System.in and System.out.println(x)
