@@ -1,0 +1,6 @@
+inheritance :
+        the properties of superclass/ parent class to be reused in the child class/ sub class is known as inheritance.
+        Java supports single, multilevel, hierarchical , hybrid inheritance. Multiple inheritance is not supported in java
+
+What is instance of operator?
+    
