@@ -1,0 +1,9 @@
+inheritance is the property of a class (super class/ parent class) to be used by another class (sub class/ base class). 
+Types of inheritance in java are:
+single
+multilevel
+hierarchial
+hybrid
+
+#multiple inheritance is not supported in java
+
